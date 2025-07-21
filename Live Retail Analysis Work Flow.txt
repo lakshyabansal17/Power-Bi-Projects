@@ -1,0 +1,20 @@
+1. Download and review the dataset provided.
+2. Analyze the raw data.
+3. Clean the dataset or handle missing values, fix data types, remove duplicates.
+4. Conduct exploratory data analysis (EDA) to identify trends and patterns.
+5. Create meaningful visualizations.
+6. Export the cleaned data to Excel for use in Power BI.
+7. Design a professional Power BI dashboard with interactive slicers and visuals.
+
+✅ Project Checklist
+
+☐ Load and explore the dataset
+☐ Clean the data (remove nulls, correct formats, strip spaces, drop duplicates)
+☐ Create new columns (e.g., Net Revenue)
+☐ Analyze customer satisfaction and product trends
+☐ Visualize key stats
+☐ Export cleaned dataset for Power BI
+☐ Build an interactive dashboard in Power BI:
+  - KPIs: Revenue, Orders, Discounts,
+  - Visuals: Bar, Pie, Line, Scatter, Card
+  - Filters: Category, City, Gender, Delivery Status
